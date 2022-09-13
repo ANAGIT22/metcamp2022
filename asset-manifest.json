@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/metcamp2022.git/static/css/main.a1f20b33.css",
+    "main.js": "/metcamp2022.git/static/js/main.8bc304cc.js",
+    "static/js/787.50352a34.chunk.js": "/metcamp2022.git/static/js/787.50352a34.chunk.js",
+    "static/media/background.png": "/metcamp2022.git/static/media/background.e3e29d8361dd52752faa.png",
+    "static/media/mal.png": "/metcamp2022.git/static/media/mal.2ecd040144ebca02894f.png",
+    "static/media/bien.png": "/metcamp2022.git/static/media/bien.73e3c7b895c60d739a7f.png",
+    "index.html": "/metcamp2022.git/index.html",
+    "main.a1f20b33.css.map": "/metcamp2022.git/static/css/main.a1f20b33.css.map",
+    "main.8bc304cc.js.map": "/metcamp2022.git/static/js/main.8bc304cc.js.map",
+    "787.50352a34.chunk.js.map": "/metcamp2022.git/static/js/787.50352a34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f20b33.css",
+    "static/js/main.8bc304cc.js"
+  ]
+}
